@@ -1,0 +1,20 @@
+
+section{
+    margin: auto;
+    width: 30%;
+    height: 500px;
+    background-color: #9696b0;
+}
+
+.grupo p{
+    background-color:  #F5F5F5;
+    padding: 20px;
+    margin: 40px 0;
+}
+
+.grupo-stylo p{
+    background-color: #F0CCE2;
+    padding: 20px;
+    font-size: 20px;
+    color: #f73939;
+}

@@ -1,0 +1,43 @@
+
+
+section{
+    width: 23%;
+    height: 450px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 10%;
+    background-color: #5156f5;
+}
+
+h1{
+    color: #ccc;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+table{
+    color: #fff;
+    text-align: center;
+}
+
+td{
+    padding: 8px;
+    font-size: 18px;
+    background-color: #424250;
+}
+
+.moda-produtos th{
+    padding: 8px;
+    background-color: #BB86FC;
+}
+
+.casa-produtos th{
+    padding: 8px;
+    background-color: #00C4B4;
+}
+
+

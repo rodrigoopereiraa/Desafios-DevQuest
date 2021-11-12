@@ -1,0 +1,12 @@
+ul , p{
+    font-size: 20px;
+}
+
+.lista{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid #000;
+    border-radius: 8%;
+}
